@@ -1,0 +1,9 @@
+[submodule "clientes/livros-next"]
+	path = clientes/livros-next
+	url = https://github.com/4nderech/livros-next.git
+[submodule "clientes/livros-react"]
+	path = clientes/livros-react
+	url = https://github.com/4nderech/livros-react.git
+[submodule "clientes/livros-angular"]
+	path = clientes/livros-angular
+	url = https://github.com/4nderech/livros-angular.git
